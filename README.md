@@ -2,6 +2,20 @@
 Competitive analysis of same-day fashion delivery vs quick commerce in India
 
 ---
+## Project Snapshot
+
+**Goal**  
+Evaluate how competitive same-day fashion delivery is in India by comparing traditional fashion platforms with quick commerce players.
+
+**Dataset**  
+Competitive analysis of 13 platforms across delivery speed, city coverage, minimum order value, delivery fee, and market share.
+
+**Tools**  
+Excel · Process Analysis (draw.io) · Business Requirements Documentation
+
+**Key Insight**  
+Fashion platforms operate same-day delivery in very limited cities and require much higher minimum order values compared to quick commerce, creating a significant adoption gap.
+
 
 ## Project Overview
 
